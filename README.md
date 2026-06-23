@@ -2,7 +2,6 @@
 
 A rigorous empirical comparison of three transformer architectures — **mT5-small**, **AraT5-base**, and **AraBART** — for abstractive Arabic news summarization, evaluating both summary quality and production-readiness.
 
-> Prepared for Dr. Areej Alshutairy
 
 ## 📄 Full Paper
 
@@ -71,14 +70,6 @@ The complete research paper — including literature review, detailed methodolog
 - CAMeL-Lab Arabic BERT (NER)
 - Matplotlib, Seaborn, Plotly
 
-## Repo contents
-
-```
-├── arabic_summarization.ipynb        # Full pipeline: EDA, preprocessing, training, evaluation, NER & keyphrase analysis
-├── Arabic_Summarization_Paper.pdf    # Full research paper
-├── requirements.txt
-└── README.md
-```
 
 ## Setup
 

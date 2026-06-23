@@ -1,0 +1,10 @@
+datasets
+transformers
+torch
+sentencepiece
+rouge-score
+nltk
+matplotlib
+seaborn
+pandas
+plotly
